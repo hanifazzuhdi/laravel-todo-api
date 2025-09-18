@@ -1,6 +1,6 @@
 # Todo List API
 
-A simple Restful API for managing todo items built with Laravel.
+A simple RESTful API for managing todo items built with Laravel.
 
 ## 📋 Requirements
 
@@ -59,22 +59,7 @@ http://localhost:8000/api/v1
 
 ### Endpoints
 
-All endpoints can be accessed in this collection: [API Documentation](http://localhost:8000/api/docs)
-
-### Response Format
-
-All API responses follow this structure:
-
-```json
-{
-    "success": true,
-    "message": "string",
-    "data": {
-        // Response data here
-    },
-    "status": 200
-}
-```
+All endpoints can be accessed in this collection: [API Documentation](https://documenter.getpostman.com/view/13031385/2sB3HrmHGW)
 
 ## 🧪 Testing
 
