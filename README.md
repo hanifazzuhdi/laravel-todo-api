@@ -4,7 +4,7 @@ A simple RESTful API for managing todo items built with Laravel.
 
 ## 📋 Requirements
 
--   PHP 8.1 or higher
+-   PHP 8.2 or higher
 -   Composer
 -   Laravel 12.x
 -   SQLite (included) or MySQL/PostgreSQL
